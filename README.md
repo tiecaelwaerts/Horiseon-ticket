@@ -8,6 +8,7 @@ N/A
 
 ## Usage
 To use this page, follow the link to go to the application.
+ https://tiecaelwaerts.github.io/Horiseon-ticket/
 
 ## Credits
 N/A
